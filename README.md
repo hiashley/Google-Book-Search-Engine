@@ -7,4 +7,4 @@ My task was to refactor a working Google Books API into a GraphQL API with Apoll
 https://warm-springs-85094.herokuapp.com/
 
 ## Screenshot
-![alt text](image.jpg)
+![Screenshot](./warm-springs-85094.herokuapp.com_%20(1).png)
